@@ -5,3 +5,5 @@ Edit 1.
 Edit 2.
 
 Branch Edit 1.
+
+Branch Edit 2.
